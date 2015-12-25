@@ -2,7 +2,6 @@ package com.bulbulhossen.textanimation;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
 import com.hanks.htextview.HTextView;
 import com.hanks.htextview.HTextViewType;
 
